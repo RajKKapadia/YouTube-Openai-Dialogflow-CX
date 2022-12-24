@@ -1,6 +1,8 @@
 # Connect OpenAI to Dialogflow CX
 Hey everyone, if you are looking for a connection between OpenAI and Dialogflow CX, then read more. You will learn how to connect your existing Dialogflow CX agent to openAI.
 
+![GitHub User's stars](https://img.shields.io/github/stars/RajKKapadia?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/RajKKapadia?style=for-the-badge)
 # Youtube
 I have recorded a quick tutorial on this topic, you can watch it [here]().
 

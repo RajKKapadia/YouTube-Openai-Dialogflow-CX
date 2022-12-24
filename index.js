@@ -94,6 +94,10 @@ const getErrorMessage = () => {
     );
 };
 
+webApp.get('/', (req, res) => {
+    res.sendStatus(200);
+});
+
 webApp.post('/dialogflow', async (req, res) => {
 
     let tag = req.body.fulfillmentInfo.tag;
